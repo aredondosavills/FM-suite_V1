@@ -1,15 +1,20 @@
-#FM Suite v1 — Facility Management Platform
+# FM Suite — Facility Management Platform
+
 Plataforma de gestión integral de Facility Management desarrollada para Savills.
 
-Módulos activos
-Dashboard — KPIs globales, alertas y OTs recientes
-Clientes — Cartera de 30 clientes con detalle completo (7 pestañas)
-Servicios — Listado de servicios activos
-Órdenes de Trabajo — Gestión de OTs
-Proveedores — Ficha 360° de proveedores con asignación cliente-servicio
-Preventivos — Planificación anual de mantenimiento
-Presupuestos — Generación y descarga de presupuestos
-Estructura del proyecto
+## Módulos activos
+
+- **Dashboard** — KPIs globales, alertas y OTs recientes
+- **Clientes** — Cartera de 30 clientes con detalle completo (7 pestañas)
+- **Servicios** — Listado de servicios activos
+- **Órdenes de Trabajo** — Gestión de OTs
+- **Proveedores** — Ficha 360° de proveedores con asignación cliente-servicio
+- **Preventivos** — Planificación anual de mantenimiento
+- **Presupuestos** — Generación y descarga de presupuestos
+
+## Estructura del proyecto
+
+```
 fm-suite/
 ├── index.html          ← App principal
 ├── css/
@@ -23,3 +28,8 @@ fm-suite/
 │   ├── documentos.js   ← Repositorio documental
 │   └── proveedores.js  ← Módulo proveedores
 └── README.md
+```
+
+## Acceso
+
+URL pública: https://aredondosavills.github.io/FM-suite_v1
