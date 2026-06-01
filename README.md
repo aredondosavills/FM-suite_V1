@@ -38,7 +38,7 @@ proveedores.js        ← módulo proveedores
 Ver `COMO_AÑADIR_MODULO.md`
 
 ## Acceso
-https://aredondosavills.github.io/FM-suite
+https://aredondosavills.github.io/FM-suite_v1
 
 ## Stack
 HTML · CSS · JavaScript vanilla · GitHub Pages
